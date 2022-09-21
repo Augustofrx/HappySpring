@@ -108,17 +108,17 @@ button {
 @keyframes moving {
     0% {
         top: 26em;
-        left: 9.7em;
+   
     }
 
     50% {
         top: 5em;
-        left: 9.7em;
+    
     }
   100% {
     top: 3em;
    color: transparent;
-   left: 9.7em;
+
   }
     
 }
