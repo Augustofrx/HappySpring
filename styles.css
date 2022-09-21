@@ -101,24 +101,24 @@ button {
     .flower-generated {
     position: absolute;
     top: 10em;
-    left: 11em;
+    left: 10.5em;
 }
 
 
 @keyframes moving {
     0% {
         top: 26em;
-        left: 11em;
+        left: 10.5em;
     }
 
     50% {
         top: 5em;
-        left: 11em;
+        left: 10.5em;
     }
   100% {
     top: 3em;
    color: transparent;
-   left: 11em;
+   left: 10.5em;
   }
     
 }
